@@ -1,3 +1,3 @@
-module github.com/goisok/hello
+module github.com/goisfun/hello
 
 go 1.17
